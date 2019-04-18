@@ -1,10 +1,4 @@
-def my_select(collection)
- collection = []
- nums.select {|num| num.even?} 
- 
- end
-
-    
+d
 def my_select(array) 
 count = 0
 result = []
