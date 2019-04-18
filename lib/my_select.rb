@@ -1,4 +1,4 @@
 def my_select(collection)
- my_select = []
+ array = []
  collections.select {|number| number.even? }
  end
